@@ -1,0 +1,12 @@
+build/classes/entites/Media.class
+build/classes/entites/Owner.class
+build/classes/entites/Property.class
+build/classes/entites/User.class
+build/classes/services/AddProperty.class
+build/classes/services/Delete.class
+build/classes/services/InJsonPropertyExtractor.class
+build/classes/services/JsonArrayCreator.class
+build/classes/services/ListAllProperty.class
+build/classes/services/Login.class
+build/classes/services/PropertyEditor.class
+build/classes/services/Search.class
